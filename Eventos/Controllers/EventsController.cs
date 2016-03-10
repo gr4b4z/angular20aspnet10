@@ -21,7 +21,7 @@ namespace Eventos.Controllers
     
     public class EventsRepository{
          private static List<PublicEvent> _events ;
-         private static string fileUrl = "wwwroot/events.json";
+         private static string fileUrl = "events.json";
         static EventsRepository(){
               _events = Newtonsoft.Json.JsonConvert.DeserializeObject<List<PublicEvent>>(System.IO.File.ReadAllText(fileUrl));
         }
