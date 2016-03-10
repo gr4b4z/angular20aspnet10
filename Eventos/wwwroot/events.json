@@ -1,0 +1,35 @@
+[{
+  "id":"event-1",
+  "title": "Konferencja C++",
+  "maxAttendees":150,
+  "location":"Kraków",
+  "date":"2016-05-12 9:00",
+  "numberOfRegistered":0,
+  "description": "Konferencja adresowana jest do deweloperów, interesujących się najnowszymi trendami w branży rozwoju oprogramowania. Szansa, by spotkać się ze światowej sławy autorytetami w tej dziedzinie – gośćmi będą między innymi Scott Meyers – autor serii książek o efektywnym wykorzystaniu języka C++ oraz Venkat Subramaniam – założyciel Agile Developer, autorytet w języku Java oraz guru w dziedzinie zastosowania metodologii agile’owych."
+},
+{
+  "id":"event-2",
+  "title": "THE APPLICATIONS OF BLOCKCHAIN AND CRYTPO CURRENCIES",
+  "maxAttendees":50,
+  "numberOfRegistered":0,
+  "date":"2016-06-12 9:00",
+  "location":"Kraków",
+  "description": "Po raz kolejny spotkanie z Grzegorzem Gawronem Temat Jego prezentacji to „THE APPLICATIONS OF BLOCKCHAIN AND CRYTPO CURRENCIES”."
+},
+{
+  "id":"event-3",
+  "title": "StartUp Cafe #11",
+  "maxAttendees":30,
+  "numberOfRegistered":0,
+  "date":"2016-05-14 18:00",
+  "location":"Bydgoszcz",
+  "description": "Początki mogą być trudne, ale nie muszą. Można być sprytnym i zacząć swoją przygodę z biznesem pomysłowo i efektywnie. Od zdobycia niezbędnej wiedzy i kontaktów. Dlatego bardzo przydatne dla osób zaczynających lub planujących zacząć pracę na własny rachunek są takie spotkania jak StartUp Cafe. Odbywają się w każdy 2. wtorek miesiąca o godz. 18.00 pod hasłem „Zamień kubek kawy na kontakt ciekawy!” Można na nich nawiązać kontakty biznesowe, znaleźć współpracowników i zdobyć wiedzę. Na najbliższym spotkaniu, dzięki Magdalenie Talkowskiej, będzie można zweryfikować swój pomysł na biznes. Podczas warsztatu, zobrazuje jak zbudować model biznesowy swojego pomysłu, przy jak największym wykorzystaniu dostępnych zasobów oraz jak w prosty sposób sprawdzić swoje przygotowanie i dojrzałość pomysłu na biznes. Joanna Czerska-Thomas pokaże natomiast jak wykorzystać media społecznościow"
+},{
+"id":"event-4",
+  "title": "TechKlub Wrocław",
+  "maxAttendees":30,
+  "numberOfRegistered":0,
+  "date":"2016-05-18 19:00",
+  "location"    :"Wrocaw",
+  "description":  "Mobilni Doradcy i narzędzia usprawniające komunikację w zespołach wirtualnych"
+}]
